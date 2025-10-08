@@ -1,0 +1,5 @@
+import streamlit as st
+
+def show_predictions():
+    st.title("🔮 Predikcie zápasov")
+    st.info("Tu bude modul pre predikciu výsledkov tenisových zápasov.")

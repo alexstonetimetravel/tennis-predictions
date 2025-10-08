@@ -1,0 +1,5 @@
+import streamlit as st
+
+def show_simulator():
+    st.title("⏪ Historický simulátor")
+    st.info("Tu bude simulátor historických zápasov a výsledkov.")
